@@ -11,7 +11,7 @@ AI Study 1조
         김승환, 남상대, 박진선, 서다현, 이상민, 이해영
 
 #### - __Prior Research__ -
-        1. [Kaggle 대회 링크](https://www.kaggle.com/c/denoising-dirty-documents/overview)
+        1. [Kaggle 대회 링크] (https://www.kaggle.com/c/denoising-dirty-documents/overview)
 
 #### - __Dataset__ -
         1. https://www.kaggle.com/c/denoising-dirty-documents/data
