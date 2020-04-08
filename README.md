@@ -12,14 +12,3 @@ AI Study 1조
 김승환, 남상대, 박진선, 서다현, 이상민, 이해영
 
 ### - __Members__ -  
-
-### Contributors Name
-남상대, 이해영
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi error quod libero corporis, iste sit nulla similique enim dignissimos asperiores, illo numquam architecto maxime ab tenetur repellendus, dicta sed officia.
-{: .text-center }
-
-<center>가운데</center>  
-<div style="text-align: left"> 왼쪽 </div>
-<div style="text-align: right"> 오른쪽 </div>
