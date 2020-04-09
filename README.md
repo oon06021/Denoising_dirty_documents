@@ -23,3 +23,4 @@ AI Study 1조
 
 #### - 기타 공부자료 -
 https://youtu.be/JTD_q4wuw_4 - 오토인코더란 무엇인가?
+https://debuggercafe.com/denoising-text-image-documents-using-autoencoders/ - 파이토치로 denoising dirty documents
