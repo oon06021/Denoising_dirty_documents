@@ -20,3 +20,6 @@ AI Study 1조
 ## *#2 Dataset Code*
 
 (계속 수정 예정입니다)
+
+#### - 기타 공부자료 -
+https://youtu.be/JTD_q4wuw_4 - 오토인코더란 무엇인가?
