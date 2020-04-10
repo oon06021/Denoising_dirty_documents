@@ -1,8 +1,7 @@
 Denoising Dirty Documents (AI Study 1조)
 =================================================
-
 ## *#1 About PROJECT*
-#### - __Topic__ -
+### - __Topic__ -
 <p align="center"><img src="/img/topic.JPG" height="250px" width="700px"></p>
 
  - 얼룩진(음료를 쏟은 자국, 주름짐, 구겨짐 등등) 문서를 오염되기 전의 상태로 되돌려 주는 모델 만들기.
@@ -11,13 +10,13 @@ Denoising Dirty Documents (AI Study 1조)
          
  - 주제선정은 프로젝트 주제가 재밌고 배울 점이 많아 보여서 선정하게 되었습니다. 
 
-#### - __Members__ -   
+### - __Members__ -   
          김승환, 남상대, 박진선, 서다현, 이상민, 이해영
 
-#### - __Prior Research__ -
+### - __Prior Research__ -
  - https://www.kaggle.com/c/denoising-dirty-documents/overview
 
-#### - __Dataset__ -
+### - __Dataset__ -
 - https://www.kaggle.com/c/denoising-dirty-documents/data
 
 <p align="center"><img src="/img/Dataset1.JPG" height="270px" width="450px"></p>
