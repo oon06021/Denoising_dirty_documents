@@ -22,7 +22,7 @@ Denoising Dirty Documents (AI Study 1조)
 ### - __Dataset__ -
 - https://www.kaggle.com/c/denoising-dirty-documents/data
 
-<p align="center"><img src="/img/Dataset1.JPG" height="300px" width="550px"></p>
+<p align="center"><img src="/img/Dataset1.JPG" height="300px" width="550px"></p>  
 <p align="center"><img src="/img/Dataset2.JPG" height="300px" width="550px"></p>
 <p align="center"><img src="/img/Dataset3.JPG" height="300px" width="550px"></p>
 <p align="center"><img src="/img/Dataset4.JPG" height="300px" width="550px"></p>
