@@ -13,7 +13,7 @@ Denoising Dirty Documents (AI Study 1조)
 
 ### - __Members__ -   
          김승환, 남상대, 박진선, 서다현, 이상민, 이해영
-<br>
+<br> 
 
 ### - __Prior Research__ -
  - https://www.kaggle.com/c/denoising-dirty-documents/overview
@@ -25,10 +25,10 @@ Denoising Dirty Documents (AI Study 1조)
 <p align="center"><img src="/img/Dataset1.JPG" height="300px" width="550px"></p>
 <p align="center"><img src="/img/Dataset2.JPG" height="300px" width="550px"></p>
 <p align="center"><img src="/img/Dataset3.JPG" height="300px" width="550px"></p>
-<p align="center"><img src="/img/Dataset4.JPG" height="300px" width="550px"></p>
+<p align="center"><img src="/img/Dataset4.JPG" height="300px" width="550px"></p>  
 <br>
 <br>
-
+  
 ## *#2 Dataset Code*
 
 
