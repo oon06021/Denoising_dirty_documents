@@ -41,3 +41,4 @@ Denoising Dirty Documents (AI Study 1조)
  - https://www.researchgate.net/publication/221258673_Enhancement_and_Cleaning_of_Handwritten_Data_by_Using_Neural_Networks
  - https://prezi.com/dxwt-kdnocus/denoising-images-to/
  - https://untitledtblog.tistory.com/150 : CNN 에 대한 이해하기 쉬운 
+ - https://keraskorea.github.io/posts/2018-10-23-keras_autoencoder/ : 왜오토인코더를 써야하는지(with 케라스)
