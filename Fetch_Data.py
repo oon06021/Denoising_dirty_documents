@@ -1,5 +1,5 @@
 ##데이터를 받을 폴더에 Fetch_Data.py 파일을 다운받고 
-##Anaconda prompt 에서  python Fetch_data.py 입력 후 엔터
+##Anaconda prompt 에서  python Fetch_Data.py 입력 후 엔터
 
 conda install requests
 
