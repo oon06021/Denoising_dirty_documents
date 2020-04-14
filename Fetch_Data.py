@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[18]:
-
-
 ##데이터를 받을 폴더에 Fetch_Data.py 파일을 다운받고 
 ##Anaconda prompt 에서  python Fetch_data.py 입력 후 엔터
 
@@ -16,7 +10,7 @@ train2_url = 'https://k.kakaocdn.net/dn/rOqax/btqDiGxBWOn/xb3It6FhqbqeDxxTvEXAi1
 
 
 file1 = requests.get(test_url, allow_redirects=True)
-open('test.zip', 'wb').write(file1.content)
+open('test.zip', 'wb').write(file1.content) #위 url 에서 받은 zip 파일을 test.zip 이라는 이름으로 받아준다. 아래도 쭉 같은 논리
 
 file2 = requests.get(train_cleaned_url, allow_redirects=True)
 open('train_cleaned.zip', 'wb').write(file2.content)
