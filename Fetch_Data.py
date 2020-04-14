@@ -23,3 +23,4 @@ open('train1.zip', 'wb').write(file3.content)
 file4 = requests.get(train2_url, allow_redirects=True)
 open('train2.zip', 'wb').write(file4.content)
 
+print("모든 파일이 다운로드 되었습니다.")
