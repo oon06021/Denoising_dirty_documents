@@ -1,6 +1,8 @@
 ##데이터를 받을 폴더에 Fetch_Data.py 파일을 다운받고 
 ##Anaconda prompt 에서  python Fetch_data.py 입력 후 엔터
 
+pip install requests
+
 import requests
 
 test_url = 'https://k.kakaocdn.net/dn/bFvix1/btqDiGxBP3H/8YrhvZb6oyomwdQvFZRRR0/test.zip?attach=1&knm=tfile.zip'
