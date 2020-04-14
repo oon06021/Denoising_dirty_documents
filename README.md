@@ -19,6 +19,15 @@ Denoising Dirty Documents (AI Study 1조)
  - https://www.kaggle.com/c/denoising-dirty-documents/overview
 <br>
 
+### - __Required Modeles__ -
+    conda install requests
+    conda install pandas
+    conda install cv2
+    conda install os
+    conda install glob
+    conda install pytorch torchvision cpuonly -c pytorch
+
+
 ### - __Dataset__ -
 - https://www.kaggle.com/c/denoising-dirty-documents/data
 
