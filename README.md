@@ -29,13 +29,7 @@ Denoising Dirty Documents (AI Study 1조)
 <br>
 <br>
 
-## *#2 Dataset Code*
-
-
-<br>
-<br>
-
-## *#3 Study Material*
+## *#2 Study Material*
  - https://youtu.be/JTD_q4wuw_4 - 오토인코더란 무엇인가? 
  - https://debuggercafe.com/denoising-text-image-documents-using-autoencoders/ - 파이토치로 denoising dirty documents
  - https://www.researchgate.net/publication/221258673_Enhancement_and_Cleaning_of_Handwritten_Data_by_Using_Neural_Networks
