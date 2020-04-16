@@ -43,5 +43,5 @@ Denoising Dirty Documents (AI Study 1조)
  - https://debuggercafe.com/denoising-text-image-documents-using-autoencoders/ - 파이토치로 denoising dirty documents
  - https://www.researchgate.net/publication/221258673_Enhancement_and_Cleaning_of_Handwritten_Data_by_Using_Neural_Networks
  - https://prezi.com/dxwt-kdnocus/denoising-images-to/
- - https://untitledtblog.tistory.com/150 : CNN 에 대한 이해하기 쉬운 
+ - https://untitledtblog.tistory.com/150 : CNN 에 대 이해하기 쉬운 
  - https://keraskorea.github.io/posts/2018-10-23-keras_autoencoder/ : 오토인코더 (with 케라스)
