@@ -1,7 +1,7 @@
 Denoising Dirty Documents (AI Study 1조)
 =================================================
 ## *#1 About PROJECT*
-### - __Topic__ -
+### - __Topic__ --
 <p align="center"><img src="/img/topic.JPG" height="250px" width="700px"></p>
 
  - 얼룩진(음료를 쏟은 자국, 주름짐, 구겨짐 등등) 문서를 오염되기 전의 상태로 되돌려 주는 모델 만들기.
