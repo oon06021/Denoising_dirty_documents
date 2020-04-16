@@ -12,7 +12,7 @@ Denoising Dirty Documents (AI Study 1조)
 <br>
 
 ### - __Members__ -   
-         김승환, 남상대, 박진선, 서다현, 이상민, 이해영
+         김승환, 남상대, 박 , 서다현, 이상민, 이해영
 <br>
 
 ### - __Prior Research__ -
